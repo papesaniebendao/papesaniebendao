@@ -2,7 +2,7 @@
 
 **Data Scientist & Machine Learning Engineer** · M2 Data Science & Software Engineering @ Université Gaston Berger (Senegal)
 
-I build end-to-end ML systems — from raw data to production — with a particular focus on explainability and the controlled integration of LLMs. Currently finishing a Master's thesis funded by **IRD** (French National Research Institute for Sustainable Development, UMMISCO joint unit), with a paper under submission at **MLICOM 2026 (Springer LNICST)**.
+I build end-to-end ML systems — from raw data to production — with a particular focus on explainability and the controlled integration of LLMs. Currently finishing a Master's thesis funded by **IRD** (French National Research Institute for Sustainable Development, UMMISCO joint unit), with a paper accepted at **MLICOM 2026 (Springer LNICST)**.
 
 ---
 

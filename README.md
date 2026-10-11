@@ -8,7 +8,7 @@ I build end-to-end ML systems — from raw data to production — with a particu
 
 #### 📌 Flagship project
 
-**[DropGuard](https://github.com/papesaniebendao/DropGuard)** — Prescriptive early-warning and recommendation system for MOOC dropout.
+**[DropGuard](https://github.com/papesaniebendao/MOOC_Recommandation_Adaptative)** — Prescriptive early-warning and recommendation system for MOOC dropout.
 *10.6M+ interactions · XGBoost (AUC 0.89, F1 0.74) · SHAP explainability · K-Means profiling · 4×4 prescriptive matrix · Llama 3 8B integration with strict ML/LLM decoupling for auditability · FastAPI + Dockerized Moodle plugin.*
 
 #### 🧰 Stack
